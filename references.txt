@@ -1,0 +1,17 @@
+//coding with nerds
+https://www.youtube.com/watch?v=3dzVWgIUkX8&list=PLXjbGq0ERjFoCtb7aH910dtddLePNI6w7
+//Bk Programmer 
+https://www.youtube.com/watch?v=Dd7YYTAKXMo&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=221&t=7s
+https://www.youtube.com/watch?v=RSAS6H-30lI&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=222
+https://www.youtube.com/watch?v=3f1X6R5elNg&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=223
+https://www.youtube.com/watch?v=n-IN1GYanGo&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=224
+https://www.youtube.com/watch?v=KxXUEZcelZM&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=225
+https://www.youtube.com/watch?v=PPkN1F2oqXE&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=227
+https://www.youtube.com/watch?v=x47zzw2VhvI&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=228
+https://www.youtube.com/watch?v=ZUaPwJrm1QI&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=229
+// two way binding 
+https://www.youtube.com/watch?v=_jlZMA6y0Q4&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=234&t=199s
+// difference between setValue and postValue
+https://www.youtube.com/watch?v=RsDS4niBGBA&list=PLEPx7DrqAqKBl8IqD6mOCIXuyQqV-8mku&index=237 
+// why we extend View model class
+https://www.bing.com/ck/a?!&&p=9ea884bbbb24a5c7JmltdHM9MTY3ODQwNjQwMCZpZ3VpZD0yYWZlNTFiYS04YTE3LTZiMmQtMjYwNi00M2RhOGI2YjZhNGQmaW5zaWQ9NTE3Mw&ptn=3&hsh=3&fclid=2afe51ba-8a17-6b2d-2606-43da8b6b6a4d&psq=why+we+extend+View+model+class&u=a1aHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvNjcwNTkwMTAvd2h5LXdlLW5lZWQtdG8tZXh0ZW5kLXZpZXdtb2RlbC1mb3ItZGF0YWJpbmRpbmctYW5kLWxpdmVkYXRhLXRvLWNyZWF0ZS1s&ntb=1
