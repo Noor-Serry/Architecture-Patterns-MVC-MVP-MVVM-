@@ -1,0 +1,2 @@
+1-learn about fragment and navigation between them using nav_graph
+2-Revision clean architecture (MVC , MVP , MVVM)
